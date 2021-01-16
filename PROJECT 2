@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+    
+    <h1  id="mal"align ="center"
+    style="color:blue;">LIFE IS SIMPLE</h1>
+    <hr>
+   <h2 id="male"><b>About</b></h2>
+   <hr>
+   <ul>
+   <li>Name:Akhilesh</li>   
+   <li>DOB : n/a</li> 
+ <li>REGION:INDIA</li>
+ <li>PROFESSION:STUDENT/YOUTUBER</li>
+ <li>GRADE :high school</li>
+ <li> Place : karnatka</li>
+ 
+       
+   </ul>
+   <hr>
+   <h2 id="female">
+   culture    
+       
+    
+       
+   </h2>
+
+       <hr> 
+        
+      <ul>
+       <li>
+        Relegion : Hinduisim
+
+       </li>   
+          
+        <li>Sub-cast: kannadiga</li>  
+        <li>deity : Lord balaji</li>
+        <li> My belief : Human culture(Humanity)</li>
+          
+      </ul>  
+    
+    
+    
+        
+    </body>
+</html>
